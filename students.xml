@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+        <firstName>Ivan</firstName>
+        <secondName>Ivanov</secondName>
+        <age>25</age>
+        <hobbies>
+            <hobby>Hockey</hobby>
+            <hobby>Football</hobby>
+        </hobbies>
+    </student>
+    <student>
+        <firstName>Petr</firstName>
+        <secondName>Petrov</secondName>
+        <age>29</age>
+        <hobbies>
+            <hobby>Programming</hobby>
+            <hobby>Paintball</hobby>
+            <hobby>Lego</hobby>
+        </hobbies>
+    </student>
+    <student>
+        <firstName>Vasiliy</firstName>
+        <secondName>Smirnov</secondName>
+        <age>29</age>
+        <hobbies>
+            <hobby>Video games</hobby>
+        </hobbies>
+    </student>
+</students>
